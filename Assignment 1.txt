@@ -1,0 +1,18 @@
+Ans.-  Features of html 5
+1. Improve Multi Media :
+                            Html 5 allows to intigrate media elements such as <audio> and <video> into web page, no need to plugins like "flash".
+
+2. Canvas Element :
+                    Html 5 introduce the canvas element . it allows  dynamic and intarctive graphics to be created and manipulate it.
+                
+3.Geolocation API : 
+                    Html 5 introduce Geolocation apis to obtain users location and offers the location -based servises to user.
+
+4.local storage:
+                    In html 5 local storage store data in users device . It improve the perfomance and reduce the round-trips of server.
+    
+5. Simentic tags :
+                    html 5 introduce new simentic elements  such as <header>, <nav> , <footer> etc. to make easier structure and orgnized .
+                    
+6.form improve:
+                It introduce severel improvement in form introduce date ,time and color and attributes requier and auto focuse.

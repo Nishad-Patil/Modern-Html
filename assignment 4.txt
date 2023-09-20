@@ -1,0 +1,6 @@
+ans .-
+    there are such way to make html accessible.
+        1 Simentic html
+        2 use headings 
+        3 using alternative text
+        4 declare language

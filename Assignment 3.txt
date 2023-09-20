@@ -1,0 +1,5 @@
+ ans .-
+        Web page can be esily accessible , understood and intarctive with by pepole of  diverse abality incuding disablity 
+        this includes simentic markup , alternative text for images and videos and make sure page is navigabel.
+
+we want to make page accessibel to make it user friendely and accessibel to hadicap and disabel personse.  

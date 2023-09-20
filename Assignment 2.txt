@@ -1,0 +1,9 @@
+ans.-
+        Html entity is reserved characters use in html .it is not seen on typical keybord.They provide the range oc characters,allows to add icons and mathematical operators
+
+Html entities:
+ 1 copy right symbol    © :  &copy
+ 2 greater than symbol  > :  &lt
+ 3 less than  symbol    < :  &greater
+ 4 ampercent            & :  &amp
+ 5 register             ® :  &reg
